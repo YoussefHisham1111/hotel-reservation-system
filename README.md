@@ -9,7 +9,7 @@
 ## 👥 Team Members
 
 | Name | ID | GitHub Username | Responsibility |
-|------|----|----------------|----------------|
+|------|----|----------------|-------------
 | Youssef AlaaElDin Nabil | 25P0163 | @username1 | Guest class + Payable interface |
 | Youssef Hisham Abdaltwab | 25P0118 | @username2 | Admin, Receptionist, Staff |
 | Omar Khaled Mohamed | 25P0110 | @Omarsawy119-web | Room, RoomType, Amenity |
